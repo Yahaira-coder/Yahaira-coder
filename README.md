@@ -16,7 +16,7 @@
 
 💬 Ask me about **Python, React, Java... or anything [here](https://github.com/Yahaira-coder)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Octopuses have three hearts and blue blood.**
 
  </div>
  
