@@ -17,9 +17,7 @@
 💬 Ask me about **Python, React, Java... or anything [here](https://github.com/Yahaira-coder)**
 
 ⚡ Fun fact **Octopuses have three hearts and blue blood.**
-
  </div>
- 
 <div align="center"> 
   <a href="mailto:yacm28@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
